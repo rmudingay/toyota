@@ -1,0 +1,7 @@
+name: toyota_api_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - requests
+  - pip
